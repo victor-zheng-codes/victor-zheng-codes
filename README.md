@@ -1,4 +1,4 @@
-### Hi there! I'm Victor 👋
+<h1 align="center"> Hello World👋! I'm Victor  </h1>
 
 
 - 🔭 I’m currently working on various projects related to chess, tennis, and school. 
@@ -7,3 +7,8 @@
 - 📫 How to reach me: [email me!](mailto:victork.zheng@mail.utoronto.ca) 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have 1 National Master norm in chess! Highest CFC rating of 2139! 
+
+
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-zheng-codes&show_icons=true&theme=cobalt) 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=victor-zheng-codes&theme=cobalt)](https://git.io/streak-stats)
