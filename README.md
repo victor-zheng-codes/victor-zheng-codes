@@ -8,6 +8,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have 1 National Master norm in chess! Highest CFC rating of 2139! 
 
+View my personal website here: [victorzheng.tech](https://victorzheng.tech/). 
+
 ---
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-zheng-codes&show_icons=true&theme=dark) 
