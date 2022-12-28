@@ -9,7 +9,9 @@
 - ⚡ Fun fact: I have 1 National Master norm in chess! Highest CFC rating of 2139! 
 
 View my personal website here: [victorzheng.ca](https://victorzheng.ca/). 
+
 View my personal blog website here: [blog.victorzheng.ca](https://blog.victorzheng.ca/). 
+
 Reach me on LinkedIn [here](https://www.linkedin.com/in/victor-zheng1/). 
 
 ---
