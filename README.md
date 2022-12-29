@@ -14,6 +14,8 @@ View my personal blog website here: [blog.victorzheng.ca](https://blog.victorzhe
 
 Reach me on LinkedIn [here](https://www.linkedin.com/in/victor-zheng1/). 
 
+View all my links [here](https://links.victorzheng.ca/).
+
 ---
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-zheng-codes&show_icons=true&theme=dark) 
