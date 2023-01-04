@@ -18,6 +18,5 @@ View all my links [here](https://links.victorzheng.ca/).
 
 ---
 
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-zheng-codes&show_icons=true&theme=dark) 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=victor-zheng-codes&theme=dark)](https://git.io/streak-stats)
