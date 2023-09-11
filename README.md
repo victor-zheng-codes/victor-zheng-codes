@@ -6,7 +6,7 @@
 - 💬 Ask me about event planning, project management, product management, and other cool things! 
 - 📫 How to reach me: [email me!](mailto:.ca) 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have 1 National Master norm in chess! Highest CFC rating of 2160! 
+- ⚡ Fun fact: I have 1 National Master norm in chess! Highest CFC rating of 2160! I'm also a National Arbiter!  
 
 View my personal website here: [victorzheng.ca](https://victorzheng.ca/). 
 
