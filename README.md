@@ -1,4 +1,4 @@
-<h1 align="center"> Hello World👋! I'm Victor  </h1>
+<h1 align="center"> Hi, I'm Victor  </h1>
 
 
 - 🔭 I’m currently working on various projects related to chess, tennis, work, and school.
