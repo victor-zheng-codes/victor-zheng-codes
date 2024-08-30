@@ -7,8 +7,8 @@
 
 View my personal website here: [victorzheng.ca](https://victorzheng.ca/). 
 
-Reach me on LinkedIn [here](https://www.linkedin.com/in/victor-zheng1/). 
+Reach me on LinkedIn [victor-zheng1](https://www.linkedin.com/in/victor-zheng1/). 
 
-Additional website: [https://www.teach.cs.toronto.edu/~zhengvi7/](https://www.teach.cs.toronto.edu/~zhengvi7/)
+Additional website: [www.teach.cs.toronto.edu/~zhengvi7/](https://www.teach.cs.toronto.edu/~zhengvi7/)
 
 ---
