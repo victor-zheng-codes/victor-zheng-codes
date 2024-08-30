@@ -9,6 +9,6 @@ View my personal website here: [victorzheng.ca](https://victorzheng.ca/).
 
 Reach me on LinkedIn [here](https://www.linkedin.com/in/victor-zheng1/). 
 
----
+Additional website: [https://www.teach.cs.toronto.edu/~zhengvi7/](https://www.teach.cs.toronto.edu/~zhengvi7/)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=victor-zheng-codes&theme=dark)](https://git.io/streak-stats)
+---
