@@ -8,6 +8,6 @@ View my personal blog here: [victorzheng.ca](https://victorzheng.ca/).
 
 Reach me on LinkedIn [victor-zheng1](https://www.linkedin.com/in/victor-zheng1/). 
 
-About me: [www.teach.cs.toronto.edu/~zhengvi7/](https://www.teach.cs.toronto.edu/~zhengvi7/). The code for this repository is hosted here. 
+About me: [www.teach.cs.toronto.edu/~zhengvi7/](https://www.teach.cs.toronto.edu/~zhengvi7/). The code for this repository is hosted [here](index.html). 
 
 ---
